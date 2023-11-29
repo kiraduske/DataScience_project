@@ -1,4 +1,4 @@
-# Data Science Project "Navigating Missed Hospital Visits"
+# Data Science Project
 
 Problem: many patients miss their scheduled appointments.
 Goal: Develop a machine learning model that predicts if a patient will miss a future
